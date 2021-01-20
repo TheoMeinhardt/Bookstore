@@ -1,0 +1,10 @@
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\bin\Debug\Bookstore_Console.exe.config
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\bin\Debug\Bookstore_Console.exe
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\bin\Debug\Bookstore_Console.pdb
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\bin\Debug\Bookstore_Library.dll
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\bin\Debug\Bookstore_Library.pdb
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\obj\Debug\Bookstore_Console.csprojAssemblyReference.cache
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\obj\Debug\Bookstore_Console.csproj.CoreCompileInputs.cache
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\obj\Debug\Bookstore_Console.csproj.CopyComplete
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\obj\Debug\Bookstore_Console.exe
+D:\Schule\SEW\Bookstore_Library\Bookstore_Console\obj\Debug\Bookstore_Console.pdb

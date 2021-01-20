@@ -1,0 +1,9 @@
+D:\Schule\SEW\Bookstore_Library\Bookstore_Library\bin\Debug\netstandard2.0\Bookstore_Library.deps.json
+D:\Schule\SEW\Bookstore_Library\Bookstore_Library\bin\Debug\netstandard2.0\Bookstore_Library.dll
+D:\Schule\SEW\Bookstore_Library\Bookstore_Library\bin\Debug\netstandard2.0\Bookstore_Library.pdb
+D:\Schule\SEW\Bookstore_Library\Bookstore_Library\obj\Debug\netstandard2.0\Bookstore_Library.csprojAssemblyReference.cache
+D:\Schule\SEW\Bookstore_Library\Bookstore_Library\obj\Debug\netstandard2.0\Bookstore_Library.AssemblyInfoInputs.cache
+D:\Schule\SEW\Bookstore_Library\Bookstore_Library\obj\Debug\netstandard2.0\Bookstore_Library.AssemblyInfo.cs
+D:\Schule\SEW\Bookstore_Library\Bookstore_Library\obj\Debug\netstandard2.0\Bookstore_Library.csproj.CoreCompileInputs.cache
+D:\Schule\SEW\Bookstore_Library\Bookstore_Library\obj\Debug\netstandard2.0\Bookstore_Library.dll
+D:\Schule\SEW\Bookstore_Library\Bookstore_Library\obj\Debug\netstandard2.0\Bookstore_Library.pdb
